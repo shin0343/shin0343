@@ -12,7 +12,7 @@
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shin0343)](https://github.com/anuraghazra/github-readme-stats)
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps://github.com/shin0343)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shin0343)](https://hits.seeyoufarm.com) 
 	
   </div>
   
