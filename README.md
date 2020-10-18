@@ -12,8 +12,8 @@
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shin0343)](https://github.com/anuraghazra/github-readme-stats)
   <div align=center>
 	
-  <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shin0343)](https://hits.seeyoufarm.com)  -->
-  [![HitCount](http://hits.dwyl.com/shin0343/shin0343.svg)](http://hits.dwyl.com/shin0343/shin0343)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shin0343)](https://hits.seeyoufarm.com)
+  <!--[![HitCount](http://hits.dwyl.com/shin0343/shin0343.svg)](http://hits.dwyl.com/shin0343/shin0343)  -->
 	
   </div>
   
