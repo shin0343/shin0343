@@ -5,7 +5,7 @@
 ## Interest
 
 - Linux System
-- Algorithm
+- Algorithm-PS
 - Computer Vision with Deep Learning
 - Multimedia Opensource
 
