@@ -5,8 +5,7 @@
 ## Interest
 
 - Linux System
-- Algorithm PS
-- Web Development
+- Android
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shin0343)](https://github.com/anuraghazra/github-readme-stats)
   <div align=center>
