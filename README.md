@@ -1,4 +1,5 @@
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin0343)](https://solved.ac/shin0343/)
 
 ## Software Developer
 <!-- 
@@ -29,5 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin0343)](https://solved.ac/shin0343/)
