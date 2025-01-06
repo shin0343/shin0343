@@ -59,6 +59,7 @@ PriceRadar Android : https://play.google.com/store/apps/details?id=com.studioodo
 
 이와 같은 경험을 바탕으로 혁신적이고 실용적인 솔루션을 개발하기 위해 꾸준히 노력하고 있습니다. 제 프로젝트를 확인하고 더 궁금한 점이 있다면 언제든 문의해주세요!
 
+------
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin0343)](https://solved.ac/shin0343/)
 
