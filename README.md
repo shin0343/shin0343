@@ -6,7 +6,7 @@
 ### 🚀 Software Engineer | Systems & AI Researcher
 **Bridging the gap between robust system architecture and user-centric innovation.**
 
-I am a Software Engineer with **5+ years of experience** specializing in **Cross-platform VMS Architecture** and **Embedded Systems** at Hanwha Vision. My expertise lies in optimizing C++/Qt frameworks for large-scale video management and integrating AI analytics into practical applications.
+I am a Software Engineer with **6+ years of experience** specializing in **Cross-platform VMS Architecture** and **Embedded Systems** at Hanwha Vision. My expertise lies in optimizing C++/Qt frameworks for large-scale video management and integrating AI analytics into practical applications.
 
 Currently, I am expanding my horizon into **Advanced AI & Computer Science Research**, aiming to build intelligent systems that are both efficient and scalable.
 
