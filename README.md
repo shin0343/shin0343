@@ -3,7 +3,7 @@
 
 # Hi there, I'm Jaehyup Shin 👋
 
-### 🚀 Software Engineer | Systems & AI Researcher
+### 🚀 Software Engineer
 **Bridging the gap between robust system architecture and user-centric innovation.**
 
 I am a Software Engineer with **6+ years of experience** specializing in **Cross-platform VMS Architecture** and **Embedded Systems** at Hanwha Vision. My expertise lies in optimizing C++/Qt frameworks for large-scale video management and integrating AI analytics into practical applications.
