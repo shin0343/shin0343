@@ -36,8 +36,8 @@ Currently, I am expanding my horizon into **Advanced AI & Computer Science Resea
 
 ### 💼 Professional Experience
 
-#### **Hanwha Vision (formerly Samsung Techwin)** `2020.01 - Present`
-*Research Engineer*
+#### **Hanwha Vision (formerly Samsung Techwin)** `2020.01 - 2026.03`
+*Senior Research Engineer*
 - **Next-Gen VMS Architecture:** Spearheaded the development of a large-scale VMS client using **Qt 6 (QML & C++)**, enabling massive camera/server connectivity and modular UI/UX.
 - **AI Feature Integration:** Implemented real-time intelligent video analysis (Motion/Object Detection) over RTSP streams.
 - **Embedded Optimization:** Resolved critical multimedia sync issues and standardized cross-compilation workflows using **Docker**.
