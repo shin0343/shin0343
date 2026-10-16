@@ -1,102 +1,45 @@
+# Hi, I'm Jay (Jaehyup Shin) 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin0343)](https://solved.ac/shin0343/)
+**Software Engineer | Systems & AI Engineering**
 
-# Hi there, I'm Jaehyup Shin 👋
+I have **6+ years of experience building production C++/Linux software and distributed systems** at Hanwha Vision. I'm now pursuing an **M.S. in Artificial Intelligence at Santa Clara University**, extending that systems foundation through hands-on **RAG, AI agent, and ML projects**.
 
-### 🚀 Software Engineer
-**Bridging the gap between robust system architecture and user-centric innovation.**
+🎯 **Seeking Summer 2027 internships in Software Engineering, AI/ML Engineering, and AI Systems.**  
+📍 San Jose, California · San Francisco Bay Area
 
-I am a Software Engineer with **6+ years of experience** specializing in **Cross-platform VMS Architecture** and **Embedded Systems** at Hanwha Vision. My expertise lies in optimizing C++/Qt frameworks for large-scale video management and integrating AI analytics into practical applications.
+[**Portfolio**](https://jayshin.pages.dev/)· [**LinkedIn**](https://www.linkedin.com/in/jay-jaehyup-shin-08843a190/)
 
-Currently, I am expanding my horizon into **Advanced AI & Computer Science Research**, aiming to build intelligent systems that are both efficient and scalable.
+## 🚀 Featured Projects
 
----
+| Project | What I built | Stack |
+| --- | --- | --- |
+| **[RippleBrain](https://github.com/shin0343/RippleBrain)** | Enterprise change-impact MVP that retrieves supporting documents and relationships, identifies policy and contract conflicts, and drafts actions for human approval. | Python, FastAPI, Next.js, HydraDB, RAG |
+| **[CardGuard](https://github.com/shin0343/cardguard)** *(team project)* | Privacy-aware payment-risk prototype combining federated learning, cooperating agents, rule-based decisions, and human review. | Python, Flower, React, Stripe TEST |
+| **[ONVIF Professional Plugin](https://github.com/shin0343/onvif-professional-plugin)** | Claude Code plugin for ONVIF protocol guidance, diagnostics, profile analysis, system design, and conformance workflows. | ONVIF, networking, Claude Code |
+| **[BridgeToCampus](https://github.com/shin0343/bridge_to_campus)** · [Live demo](https://shin0343.github.io/bridge_to_campus/) | Working 90-day transition-planning web prototype for international students, created with AI-assisted interface design. | Web development, Google Stitch |
 
-### 🛠 Tech Stack
+Explore more projects and engineering case studies on my **[interactive portfolio](https://jayshin.pages.dev/)**.
 
-**Languages**
-<div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+## 💼 Production Engineering
 
-**Frameworks & Tools**
-<div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+**Hanwha Vision — Research Engineer → Senior Research Engineer**  
+*January 2020 – March 2026*
 
----
+- Built modular **C++/Qt 6/QML** components for a distributed video management platform supporting **thousands of camera and server connections**.
+- Administered **Git, pull-request, and release workflows for a 50-engineer team**; measured a **13.9% reduction in C++ build time** using precompiled headers.
+- Delivered desktop software for **Windows, macOS, and Ubuntu** and automated embedded cross-compilation setup with **Docker**.
+- Reduced firmware-information loading/reset time by **67% (1,174 ms → 386 ms)**; contributed embedded functionality to a **USD 7.5M U.K. retail contract**.
 
-### 💼 Professional Experience
+## 🛠 Technical Skills
 
-#### **Hanwha Vision (formerly Samsung Techwin)** `2020.01 - 2026.03`
-*Senior Research Engineer*
-- **Next-Gen VMS Architecture:** Spearheaded the development of a large-scale VMS client using **Qt 6 (QML & C++)**, enabling massive camera/server connectivity and modular UI/UX.
-- **AI Feature Integration:** Implemented real-time intelligent video analysis (Motion/Object Detection) over RTSP streams.
-- **Embedded Optimization:** Resolved critical multimedia sync issues and standardized cross-compilation workflows using **Docker**.
-- **DevOps Leadership:** Managed **Git** branching strategies and development workflows for large-scale collaboration.
+| Area | Technologies and focus |
+| --- | --- |
+| **AI / ML** | Python, RAG, AI agents, FastAPI, Flower, ML coursework |
+| **Systems engineering** | C/C++, Linux/Unix, distributed systems, Qt 6/QML, embedded Linux |
+| **Infrastructure & workflows** | Docker, Git/GitHub Actions, CI/CD, cross-compilation |
+| **Web & product development** | JavaScript/TypeScript, React, Next.js, SQL, Flutter/Dart |
 
----
+## 🎓 Education & Teaching
 
-### 📱 Independent Projects
-
-#### **Mobile Application Development** `2021 - Present`
-*Indie Developer (Google Play & App Store)*
-- **End-to-End Product Lifecycle:** Managed everything from concept ideation to deployment and maintenance using **Flutter**.
-- **User-Centric Design:** Translated real-world user needs into functional software, iterating based on direct user feedback.
-- *Keywords:* `Product Management`, `Full-cycle Development`, `Problem Solving`
-
----
-
-### 📚 CS Background & Academic Focus
-
-<details>
-<summary><strong>Click to expand coursework</strong></summary>
-<br>
-
-I possess a strong foundation in Computer Science, underpinning my practical engineering skills.
-
-| Category | Subjects |
-| :--- | :--- |
-| **Hardware & Architecture** | Logic Circuits, Computer Architecture, Assembly Programming |
-| **Software Engineering** | Data Structures, Algorithms, Automata, OS, System Programming, OOP, Design Patterns |
-| **Network & Data** | Data Communication, Computer Networks, Network Programming, Database Systems |
-| **Mathematics** | Linear Algebra, Numerical Analysis, Discrete Mathematics |
-
-</details>
-
-<!-- 
-## Interest
-
-- Linux System
-- Backend -->
-<!--
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shin0343)](https://github.com/anuraghazra/github-readme-stats)
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shin0343)](https://hits.seeyoufarm.com)
-  <!--[![HitCount](http://hits.dwyl.com/shin0343/shin0343.svg)](http://hits.dwyl.com/shin0343/shin0343)  -->
-	
-<!--
-  </div>
-<!--
-**shin0343/shin0343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Santa Clara University** — M.S. in Artificial Intelligence *(expected June 2028)*
+- **Hongik University** — B.S. in Computer Engineering *(2020)*
