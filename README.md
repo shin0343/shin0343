@@ -1,65 +1,49 @@
 # Hi, I'm Jay (Jaehyup Shin) 👋
 
-**Software Engineer | C++/Linux Systems · AI Engineering**
+**Software Engineer | C++/Linux & Embedded Systems | AI Infrastructure**
 
-I have **6+ years of experience building production software** at Hanwha Vision, spanning distributed video systems, embedded devices, and cross-platform applications. My work includes improving software performance, streamlining C++ build and release workflows, and delivering features used in real-world deployments.
+I'm a software engineer with **6+ years of experience building production C++/Linux software** at Hanwha Vision, spanning multi-server video systems, embedded devices, and cross-platform applications. I focus on **solving performance and reliability problems with measurable, tested engineering changes**.
 
-I'm now pursuing an **M.S. in Artificial Intelligence at Santa Clara University**, extending that engineering background through **open-source AI contributions, retrieval-augmented generation (RAG), and AI agent systems**.
+I'm now pursuing an **M.S. in Artificial Intelligence at Santa Clara University**, extending that systems background through **merged AI inference open-source contributions** and hands-on AI systems projects.
 
-🎯 **Seeking Summer 2027 internships:** Software Engineering · AI/ML Engineering · AI Systems  
-📍 San Jose, CA · San Francisco Bay Area  
+🎯 **Seeking Summer 2027 internships:** Software Engineering · C++/Embedded Systems · AI Infrastructure / ML Systems  
+📍 **San Jose, California** · San Francisco Bay Area  
 🔗 [Portfolio](https://jayshin.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/jay-jaehyup-shin-08843a190/) · [Email](mailto:jshin4@scu.edu)
 
-## Highlights
+## Engineering Highlights
 
-- **6+ years in production engineering:** Delivered C++/Linux, embedded, and cross-platform software at Hanwha Vision, including performance and developer-workflow improvements.
-- **2 merged AI open-source pull requests:** Contributed C++ memory-allocation and Python streaming fixes to **Qualcomm GenieX**.
-- **Applied AI development:** Built RAG-based enterprise analysis and a local AI agent security workbench with evidence review and tool-call policies.
+- **Production systems:** Developed modular **C++/Qt 6/QML** components for a multi-server video management platform supporting **thousands of camera and server connections**, including REST-backed device management.
+- **Performance optimization:** Reduced firmware-information load/reset latency **67% (1,174 ms → 386 ms)** using parallel execution threads; cut C++ build time **13.9%** with precompiled headers, validated across five benchmark runs per configuration.
+- **Engineering at team scale:** Managed Git branching, reviews, and release workflows for a **50-engineer team**, supporting biweekly releases and urgent hotfixes.
+- **Embedded and cross-platform development:** Integrated and hardware-tested NVR LTE modem functionality in approximately **three weeks**; built software for **Windows, macOS, and Ubuntu** and automated embedded SoC toolchain setup with Docker.
 
-## Open-Source AI Contributions
+## Merged Open-Source Contributions
 
-**[Qualcomm GenieX](https://github.com/qualcomm/GenieX) — 2 merged pull requests**
+**[Qualcomm GenieX](https://github.com/qualcomm/GenieX) — AI inference runtime**
 
-- **[PR #1564 — C++ inference efficiency](https://github.com/qualcomm/GenieX/pull/1564):** Changed vision-language model (VLM) logits allocation from one row per token to **one row per sequence**, avoiding unused memory reservations.
-- **[PR #1577 — Python streaming reliability](https://github.com/qualcomm/GenieX/pull/1577):** Fixed cancellation behavior that could stream tokens rejected by the SDK and leave streamed output inconsistent with the final result.
+- **[PR #1564 · C++ / VLM memory allocation](https://github.com/qualcomm/GenieX/pull/1564):** Changed logits allocation from per-token rows to one row per sequence, avoiding unused memory reservations.
+- **[PR #1577 · Python / streaming reliability](https://github.com/qualcomm/GenieX/pull/1577):** Fixed cancellation behavior that could emit SDK-rejected tokens and leave streamed output inconsistent with the final result; addressed prefix-reuse issues.
 
-Both contributions were reviewed and merged by project maintainers.
+**[AWS SageMaker HyperPod CLI](https://github.com/aws/sagemaker-hyperpod-cli) — developer tooling**
 
-## Featured AI & Software Projects
+- **[PR #471 · CLI correctness and regression tests](https://github.com/aws/sagemaker-hyperpod-cli/pull/471):** Aligned CloudFormation stack output, CLI help, and SDK documentation, with regression tests.
 
-| Project | What it does and what I built | Stack |
-| --- | --- | --- |
-| **[RippleBrain](https://github.com/shin0343/RippleBrain)** · Enterprise Change-Impact Agent | Built an application that **traces how policy or contract changes affect related documents**, surfaces supporting evidence, and prepares actions for **human review and approval**. | Python, FastAPI, Next.js, HydraDB, RAG |
-| **[AI Agent Security Lab](https://github.com/shin0343/ai-agent-security-labs)** · Security Workbench | Built a local workbench to **investigate security evidence and control AI-agent tool calls** through deny, monitor, and approval policies. **234 backend tests passed** using synthetic data. | Python, FastAPI, SQLite, React, TypeScript, pytest |
-| **[ONVIF Professional Plugin](https://github.com/shin0343/onvif-professional-plugin)** · Developer Tooling | Created a Claude Code plugin for **network-camera protocol diagnostics, device-profile analysis, and conformance workflows**. | ONVIF, networking, Claude Code |
+## Selected Projects
 
-**Other projects**
-
-- **[CardGuard](https://github.com/shin0343/cardguard)** *(team project)* — Prototyped privacy-aware payment-risk analysis using federated learning, cooperating agents, rules, and human review. **Python, Flower, React, Stripe test mode**.
-- **[BridgeToCampus](https://github.com/shin0343/bridge_to_campus)** · [Live demo](https://shin0343.github.io/bridge_to_campus/) — Built an interactive 90-day transition-planning web prototype for international students.
-
-More implementation details and case studies: **[Interactive portfolio](https://jayshin.pages.dev/)**.
-
-## Professional Experience
-
-**Hanwha Vision — Research Engineer → Senior Research Engineer**  
-*January 2020 – March 2026*
-
-- Developed modular **C++/Qt 6/QML** components for a distributed video management system handling **thousands of camera and server connections**.
-- Built video, device-control, and update features for **Windows, macOS, and Ubuntu**; automated embedded build setup with Docker.
-- Improved firmware responsiveness and C++ build workflows; administered Git branching, pull-request, and release processes used by a **50-engineer team**.
-- Delivered embedded NVR functionality that **contributed to a $7.5M U.K. retail contract** and integrated an LTE modem with hardware testing in approximately **3 weeks**.
+- **[CardGuard](https://github.com/shin0343/cardguard) · Collaborative AI Security:** Worked in a **five-person hackathon team** on prompt-injection defenses, rogue-node safeguards, and agent coordination for privacy-preserving payment-risk analysis.
+- **[ONVIF Professional Plugin](https://github.com/shin0343/onvif-professional-plugin) · Developer Tooling:** Built a Claude Code plugin for network-camera protocol diagnostics, device-profile analysis, and conformance workflows.
+- **[AI Agent Security Labs](https://github.com/shin0343/ai-agent-security-labs) · Security Workbench:** Implemented tool-call policies and evidence auditing; **234 backend tests passed** using synthetic data.
+- **[RippleBrain](https://github.com/shin0343/RippleBrain) · Enterprise Change-Impact Agent:** Built a FastAPI/RAG application that connects retrieved evidence to change-impact analysis and **human review and approval**.
 
 ## Technical Skills
 
-| Area | Skills and experience |
-| --- | --- |
-| **Software & systems** | C, C++, Linux/Unix, distributed systems, Qt 6/QML, embedded development |
-| **AI & ML** | Python, RAG, AI agents, AI inference open-source contributions, machine learning coursework |
-| **Backend & web** | FastAPI, REST APIs, JavaScript/TypeScript, React, Next.js, SQL |
-| **Engineering workflows** | Docker, Git, GitHub Actions, CI/CD, debugging, cross-compilation |
+- **Languages:** C++, C, Python, SQL, JavaScript, TypeScript
+- **Systems & engineering:** Linux, embedded systems, Qt 6/QML, multithreading, Docker, Git/GitHub Actions, CI/CD, REST APIs, Windows, macOS
+- **AI & backend:** Machine Learning, LLM inference, RAG, AI agents, FastAPI, Next.js
 
-## Education
+## Education & Community
 
 - **Santa Clara University** — M.S. in Artificial Intelligence *(expected June 2028)*
 - **Hongik University** — B.S. in Computer Engineering *(2020)*
+
+**More about my engineering work:** [Interactive portfolio](https://jayshin.pages.dev/)
