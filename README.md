@@ -8,13 +8,19 @@
 
   <a href="https://jayshin.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jay-jaehyup-shin-08843a190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jshin4@scu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 
-### At a glance
+### Career timeline
 
-Former **Senior Research Engineer @ Hanwha Vision**. Now exploring **Apache AsterixDB** and **data systems for AI** at SCU.
+| Period | Role | Focus |
+| :-- | :-- | :-- |
+| **2020–2024** | **Research Engineer** · Hanwha Vision | Embedded C/C++, Linux, NVR firmware & SoC platforms |
+| **2024–2026** | **Senior Research Engineer** · Hanwha Vision | Cross-platform Qt/C++ VMS, build & release engineering |
+| **2026–Present** | **M.S. in Artificial Intelligence** · Santa Clara University | AI systems & machine learning · *Expected Jun 2028* |
+| **Nov 2026–Present** | **Graduate Student Researcher** · DBIS Lab, SCU | Apache AsterixDB, query processing & data systems for AI |
 
-**−67%** embedded latency · **−13.9%** C++ build time · **50-engineer** development workflows
+**Selected impact** · **67%** lower NVR latency · **13.9%** faster C++ builds · Git workflows for **50 engineers**
 
 ### Open source · merged PRs
 
@@ -22,7 +28,7 @@ Former **Senior Research Engineer @ Hanwha Vision**. Now exploring **Apache Aste
 | :-- | :-- |
 | **[Qualcomm GenieX](https://github.com/qualcomm/GenieX)** | VLM memory efficiency & streaming/prefix reuse · [#1564](https://github.com/qualcomm/GenieX/pull/1564) · [#1577](https://github.com/qualcomm/GenieX/pull/1577) |
 | **[llm-d Router](https://github.com/llm-d/llm-d-router)** | P2P KV-cache propagation + 10 regression tests · [#3677](https://github.com/llm-d/llm-d-router/pull/3677) |
-| **[AWS SageMaker HyperPod CLI](https://github.com/aws/sagemaker-hyperpod-cli)** | CloudFormation CLI/docs/test improvements · [#471](https://github.com/aws/sagemaker-hyperpod-cli/pull/471) |
+| **[AWS SageMaker HyperPod CLI](https://github.com/aws/sagemaker-hyperpod-cli)** | CloudFormation stack-output handling & tests · [#471](https://github.com/aws/sagemaker-hyperpod-cli/pull/471) |
 
 ### Featured project
 
