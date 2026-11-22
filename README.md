@@ -8,7 +8,6 @@
 
   <a href="https://jayshin.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jay-jaehyup-shin-08843a190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jshin4@scu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 
 ### At a glance
